@@ -1,10 +1,10 @@
 # Generative-AI-Generated-Furniture-Master
----
+
 This is the final project of COMPUTER VISION IN DEEP LEARNING IMPLEMENTATION AND ITS APPLICATIONS.
 
 
 # Stable Diffusion UI with PyQt5 in Jetson Xavier NX
----
+
 This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Stable Diffusion model with real-time streaming capture. This project allows users to generate images using prompts and perform real-time processing and display of the generated images.
 
 
