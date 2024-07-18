@@ -1,4 +1,4 @@
-# Generative-AI-Generated-Furniture-Master
+# Generative-AI-Generated-Furniture
 
 This is the final project of COMPUTER VISION IN DEEP LEARNING IMPLEMENTATION AND ITS APPLICATIONS.
 
