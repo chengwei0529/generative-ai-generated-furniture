@@ -1,0 +1,16 @@
+# reference：https://github.com/huggingface/diffusers
+# conda create --name diffusers-gui python=3.8
+# conda activate diffusers-gui
+# conda install -c conda-forge cudatoolkit cudnn -y
+# pip install torch==2.0.0+cu118 torchvision==0.15.0+cu118 torchaudio==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+
+PyQt5==5.15.10 
+pillow==10.4.0 
+rembg==2.0.57
+numpy==1.24.4
+torch==2.0.0+cu118
+torchaudio==2.0.0+cu118
+torchvision==0.15.0+cu118 
+diffusers==0.29.2
+transformers==4.42.3
+accelerate==0.32.1 
