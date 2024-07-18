@@ -1,12 +1,14 @@
-### generative-ai-generated-furniture-master
+# Generative-AI-Generated-Furniture-Master
+---
 This is the final project of COMPUTER VISION IN DEEP LEARNING IMPLEMENTATION AND ITS APPLICATIONS.
 
 
-### Stable Diffusion UI with PyQt5 in Jetson Xavier NX
-
+# Stable Diffusion UI with PyQt5 in Jetson Xavier NX
+---
 This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Stable Diffusion model with real-time streaming capture. This project allows users to generate images using prompts and perform real-time processing and display of the generated images.
 
-#### Function
+
+## Function
 
 - Real-time streaming or camera capture
 - Generate furniture images using Stable Diffusion
@@ -14,7 +16,7 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 - Remove image background
 - GUI control interface
 
-#### Flowchart
+## Flowchart
 
 ![流程圖](images/flowchart.png)
 
@@ -26,7 +28,7 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 6. Generate the results in the real-time stream
 7. Users can adjust the image themselves
 
-#### Installation 
+## Installation 
 
 1. Create and activate the Conda environment:
 
@@ -48,7 +50,7 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
     pip install PyQt5==5.15.10 pillow==10.4.0 rembg==2.0.57 numpy==1.24.4 diffusers==0.29.2 transformers==4.42.3 accelerate==0.32.1
     ```
 
-#### Using this code
+## Using this code
 
 1. run the main program:
 
@@ -58,9 +60,9 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 
 2. In the pop-up GUI, you can generate images by entering prompts and clicking the "Enter" button. Use the control buttons below to adjust the image's position, size, transparency, rotation angle, and flip.
 
-#### Results Display
+## Results Display
 
-##### UI Interface
+### UI Interface
 
 ![UI 界面](images/ui_interface.png)
 
@@ -69,7 +71,7 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 - 調整圖片位置、透明度、大小、旋轉和翻轉
 
 
-#### Dependence
+## Dependence
 
 - Python==3.8
 - PyQt5==5.15.10
@@ -83,7 +85,7 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 - transformers==4.42.3
 - accelerate==0.32.1
 
-#### Reference
+## Reference
 
 - [diffusers](https://github.com/huggingface/diffusers)
 
