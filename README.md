@@ -65,6 +65,9 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 ### UI Interface
 
 ![UI 界面](images/UI_4.png)
+![UI 界面](images/UI_1.png)
+![UI 界面](images/UI_2.png)
+![UI 界面](images/UI_3.png)
 
 - 加載模型並生成圖片
 - 輸入提示詞並重置
