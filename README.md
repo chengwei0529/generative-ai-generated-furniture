@@ -64,10 +64,10 @@ This is a GUI application made with PyQt5 in Jetson Xavier NX, combining the Sta
 
 ### UI Interface
 
-![UI 界面](images/UI_4.png)
-![UI 界面](images/UI_1.png)
-![UI 界面](images/UI_2.png)
-![UI 界面](images/UI_3.png)
+<img src="images/UI_4.png" alt="UI Interface" width="300">
+<img src="images/UI_1.png" alt="UI Interface" width="300">
+<img src="images/UI_2.png" alt="UI Interface" width="300">
+<img src="images/UI_3.png" alt="UI Interface" width="300">
 
 - 加載模型並生成圖片
 - 輸入提示詞並重置
